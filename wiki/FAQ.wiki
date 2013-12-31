@@ -19,6 +19,7 @@ You'll have a cypress_dump.txt on your home directory containing the kext logs.
 Don't hesitate contacting me by the forum (PM or on the cypress topic), by the google issues or even directly by mail. you need to try to explain the bug as much as possible :<br />
 <ul>
 <li>a link to download your cypress_dump.txt (or put it in attachment)</li>
+<li>mention the time(s)/date(s) it occured</li>
 <li>its type (hang, jerkyness, freeze or KP) ?</li>
 <li>is it at boot ?</li>
 <li>is it using a specific feature ?</li>
