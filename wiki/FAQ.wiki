@@ -24,3 +24,7 @@ Don't hesitate contacting me by the forum (PM or on the cypress topic), by the g
 <li>is it at boot ?</li>
 <li>is it using a specific feature ?</li>
 </ul>
+
+Generally, the few issues comes from a untest yet firmware with some feature, since i have a XPS 13 (cypress firmware v11) i cannot see/detect some bugs without the help of the community.
+
+ I do all this just because i like to code, and i like OsX, so I'll try to do the best i can to get it working on most different computers. Again, if you have a problem, don't hesitate, contact me and send me logs.
